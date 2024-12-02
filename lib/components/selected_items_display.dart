@@ -4,7 +4,9 @@ import 'package:get/get.dart';
 
 class SelectedItemsDisplay extends StatelessWidget {
   final AppMenuController controller; // 컨트롤러 추가
-
+  // final List<String> selectedItems; // 표시할 아이템 리스트
+  //
+  // const SelectedItemsDisplay({required this.controller, required this.selectedItems});
   const SelectedItemsDisplay({required this.controller});
 
   @override

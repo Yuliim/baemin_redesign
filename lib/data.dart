@@ -3,9 +3,9 @@
 
 final Map<String, List<Map<String, dynamic>>> menuData = {
   '가격': [
-    {'name': '1인(150g)', 'price': 9000},
-    {'name': '2인(300g)', 'price': 12500},
-    {'name': '3인(450g)', 'price': 15500},
+    {'name': '1인(150g)', 'price': 4500},
+    {'name': '2인(300g)', 'price': 8000},
+    {'name': '3인(450g)', 'price': 11000},
   ],
   '생과일토핑': [
     {'name': '메로골드(청자몽) 1/2', 'price': 2500},

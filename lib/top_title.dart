@@ -8,7 +8,7 @@ class TopTitle extends StatelessWidget {
       children: [
         // 이미지 위젯 추가
         Image.asset(
-          'assets/요아정_이미지.jpg',
+          'assets/요아정_요거트만.jpg',
           width: double.infinity, // 화면 가로 전체를 사용
           height: 200.0, // 원하는 높이로 설정
           fit: BoxFit.cover, // 이미지가 영역을 꽉 채우도록 설정
@@ -30,7 +30,7 @@ class TopTitle extends StatelessWidget {
                   //SizedBox(width: 8.0), // 제목과 이미지 간격
                   Expanded(
                     child: Text(
-                      '요아정 시그니처) 요.아+그래놀라+벌집꿀',
+                      '내맘대로 요아정) 요거트 아이스크림',
                       style: TextStyle(
                         fontSize: 24.0, // 제목 크기
                         fontWeight: FontWeight.bold, // 제목 굵기
